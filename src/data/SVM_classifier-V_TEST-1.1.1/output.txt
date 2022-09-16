@@ -1,0 +1,11 @@
+Data import FINISHED in 0.0017650000000006827 seconds time
+274 952
+Set generation was started
+Dataset was generated in 0.0017794000000002086 seconds time
+Learning was started!
+Best F1 =	0.9128427971261115
+Best Params:
+		kernel = rbf		c = 2.5
+Best accuracy =	0.9591836734693877
+MAX F1 = 0.9383838571303771
+Learning was finished in 2.5755856999999995 seconds time

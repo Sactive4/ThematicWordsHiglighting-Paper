@@ -1,0 +1,34 @@
+Warning : `load_model` does not return WordVectorModel or SupervisedModel any more, but a `FastText` object which is very similar.
+Data import FINISHED in 0.0017439999999986355 seconds time
+274 952
+Set generation was started
+Dataset was generated in 0.0021991000000003424 seconds time
+[[-0.01514498 -0.00763328 -0.07725045 ...  0.0827536  -0.03696184
+   0.03167422]
+ [ 0.10204592 -0.2584184  -0.23117998 ...  0.32070273  0.26142013
+   0.05153524]
+ [ 0.00202666  0.06404903 -0.07323488 ...  0.05660709 -0.01469485
+  -0.03935545]
+ ...
+ [ 0.05127981  0.0550563   0.07919983 ...  0.10174974 -0.17833693
+   0.11824363]
+ [-0.04401274 -0.02940734  0.02624099 ...  0.07180309  0.04841223
+  -0.01238823]
+ [-0.01406005  0.02747208 -0.06319176 ...  0.081555   -0.01530955
+  -0.01176171]]
+[1. 0. 1. ... 0. 0. 1.]
+Learning was started!
+C:\ProgramData\Anaconda3\envs\Ideen\lib\site-packages\numpy\core\fromnumeric.py:2007: VisibleDeprecationWarning: Creating an ndarray from ragged nested sequences (which is a list-or-tuple of lists-or-tuples-or ndarrays with different lengths or shapes) is deprecated. If you meant to do this, you must specify 'dtype=object' when creating the ndarray.
+  result = asarray(a).shape
+C:\Users\ogurc\PycharmProjects\Ideen\src\classifier.py:526: UserWarning: params_values could be not 2D array!
+  warnings.warn("params_values could be not 2D array!")
+100%|██████████| 864/864 [11:57<00:00,  1.20it/s]
+Best F1 =	0.9495469152507922
+Best Params:
+		input = 300		h1 = 7		lr = 0.075		epoch = 20
+Best accuracy =	0.9755102040816327
+100%|██████████| 501/501 [00:01<00:00, 341.06it/s]
+MAX F1 = 0.9349469900084572
+Learning was finished in 721.5106408 seconds time
+
+Process finished with exit code 0

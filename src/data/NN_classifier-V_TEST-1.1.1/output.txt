@@ -1,0 +1,5 @@
+Data import FINISHED in 0.0016721000000003983 seconds time
+274 952
+Set generation was started
+Dataset was generated in 0.0034746999999999417 seconds time
+Learning was started!

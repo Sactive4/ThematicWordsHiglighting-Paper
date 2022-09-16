@@ -1,0 +1,11 @@
+Data import FINISHED in 0.001514999999999489 seconds time
+274 952
+Set generation was started
+Dataset was generated in 0.0016902000000005302 seconds time
+Learning was started!
+Best F1 =	0.9075630385563792
+Best Params:
+		weights = distance		n_neighbors = 6
+Best accuracy =	0.9591836734693877
+MAX F1 = 0.9153240856757686
+Learning was finished in 9.352908000000001 seconds time

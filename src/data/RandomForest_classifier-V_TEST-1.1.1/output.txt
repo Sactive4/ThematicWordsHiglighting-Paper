@@ -1,0 +1,11 @@
+Data import FINISHED in 0.003979499999999803 seconds time
+274 952
+Set generation was started
+Dataset was generated in 0.003631099999999776 seconds time
+Learning was started!
+Best F1 =	0.9090909090909091
+Best Params:
+		n_estimator = 75		criterion = gini		max_depth = 7
+Best accuracy =	0.9591836734693877
+MAX F1 = 0.916248050208288
+Learning was finished in 62.4004716 seconds time
