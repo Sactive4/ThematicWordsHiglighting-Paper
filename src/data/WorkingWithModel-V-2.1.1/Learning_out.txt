@@ -1,0 +1,16 @@
+Data import FINISHED in 0.04373130000000103 seconds time
+Set generation was started
+Dataset was generated in 0.018587300000000084 seconds time
+100%|██████████| 39/39 [00:00<00:00, 696.24it/s]
+100%|██████████| 8/8 [00:00<00:00, 3997.91it/s]
+100%|██████████| 8/8 [00:00<00:00, 2664.95it/s]
+Learning was started!
+100%|██████████| 140/140 [02:52<00:00,  1.23s/it]
+Best F1 =	0.9303974663016136
+Best Params: 		kernel = 3		c = 0.002
+Best accuracy =	0.9673469387755103
+100%|██████████| 501/501 [00:00<00:00, 503.91it/s]
+MAX F1 = 0.9465795049390483
+Learning was finished in 293.80710239999996 seconds time
+
+Process finished with exit code 0
