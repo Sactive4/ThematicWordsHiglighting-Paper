@@ -1,0 +1,48 @@
+Data import FINISHED in 0.042464600000002406 seconds time
+____________________________________________________________________________________________________
+Wrong classified thematic words
+meitnerium
+chlorophyll
+roentgenium
+lanthan
+Ste
+haemek
+wire rope
+Composite
+sol
+darmstadium
+praseodym
+seleni
+schizosaccharomyces
+Chemicals
+ACT
+rain
+precipitation
+Recall = 0.9639830508474576
+____________________________________________________________________________________________________
+Wrong classified casual words
+masonry
+rose
+heavier
+monomer
+oils
+reductase
+tert
+non-toxic
+answersAre
+adobe
+B12
+hue
+bifunctional
+sorbent
+fcc
+PET
+Fiber
+satin
+omega-3
+Waco
+glue
+Wood
+fossils
+pulp
+DHA

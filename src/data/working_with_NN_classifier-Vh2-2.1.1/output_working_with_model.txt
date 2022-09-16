@@ -1,0 +1,40 @@
+Data import FINISHED in 0.0014903999999997808 seconds time
+____________________________________________________________________________________________________
+Wrong classified thematic words
+Recall = 1.0
+____________________________________________________________________________________________________
+Wrong classified casual words
+aspartic
+bidentate
+melanocortin
+unsaturated
+isoc
+dichroic
+fcc
+pine
+molten
+fluorinated
+interleukin
+microspheres
+ausubel
+albumin
+pyruvate
+leukemia
+hemoglobin
+mer
+microcrystalline
+beaker
+gout
+lcis
+pdic
+electroless
+incandescent
+Precision = 0.9155405405405406
+____________________________________________________________________________________________________
+Computing F1 finished in 10.003224199999998 seconds time
+____________________________________________________________________________________________________
+
+Predicting was FINISHED in 0.14094349999999878 seconds time
+Thematic array size = 2042
+Casual array size = 7958
+Full process FINISHED in 11.6257348 seconds time

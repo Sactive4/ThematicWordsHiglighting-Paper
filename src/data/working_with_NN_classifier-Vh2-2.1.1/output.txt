@@ -1,0 +1,9 @@
+Data import FINISHED in 0.011034600000002115 seconds time
+Set generation was started
+Dataset was generated in 0.009411000000000058 seconds time
+Learning was started!
+Best F1 =	0.9730124597112036
+Best Params: 		h1 = 10		h2 = 3		lr = 0.002		epoch = 100
+Best accuracy =	0.9877551020408163
+MAX F1 = 0.9465795049390483
+Learning was finished in 679.0334248 seconds time

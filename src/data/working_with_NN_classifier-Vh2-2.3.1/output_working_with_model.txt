@@ -1,0 +1,70 @@
+Data import FINISHED in 0.01642919999999748 seconds time
+____________________________________________________________________________________________________
+Wrong classified thematic words
+wire rope
+schizosaccharomyces
+seleni
+darmstadium
+roentgenium
+meitnerium
+safflower
+chlorophyll
+praseodym
+haemek
+glycoprotein
+triglycerides
+lanthan
+eicosapentaenoic
+Recall = 0.948339483394834
+____________________________________________________________________________________________________
+Wrong classified casual words
+impurity
+beaker
+adduct
+pdb
+pyruvate
+dimer
+antistatic
+passivation
+bifunctional
+microspheres
+etch
+albumin
+vial
+isoc
+molten
+pine
+hexa
+bidentate
+hollow
+sorbent
+solvent
+reductase
+tert
+fcc
+urine
+electroless
+reagent
+brazing
+aspartic
+enantiomer
+crosslinked
+plating
+pdic
+rod
+dialysate
+meth
+vapor
+monomer
+rapamycin
+cubic
+oligomer
+Precision = 0.8624161073825504
+____________________________________________________________________________________________________
+Computing F1 finished in 15.626424499999999 seconds time
+____________________________________________________________________________________________________
+
+Predicting was FINISHED in 0.3265148999999994 seconds time
+Thematic array size = 332
+Casual array size = 4668
+Full process FINISHED in 20.4784234 seconds time

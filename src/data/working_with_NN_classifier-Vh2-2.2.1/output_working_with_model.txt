@@ -1,0 +1,41 @@
+Data import FINISHED in 0.0017271000000000925 seconds time
+____________________________________________________________________________________________________
+Wrong classified thematic words
+triglycerides
+eicosapentaenoic
+mangan
+fiberglass
+transferrin
+brick
+chlorophyll
+Recall = 0.974169741697417
+____________________________________________________________________________________________________
+Wrong classified casual words
+pine
+beaker
+fluorinated
+pdic
+dichroic
+plasma
+vapour
+gout
+molten
+albumin
+radionuclide
+isoc
+microcrystalline
+cubic
+microspheres
+hydrophilic
+sorbent
+discus
+vapor
+Precision = 0.9328621908127208
+____________________________________________________________________________________________________
+Computing F1 finished in 10.3197009 seconds time
+____________________________________________________________________________________________________
+
+Predicting was FINISHED in 0.02263770000000065 seconds time
+Thematic array size = 57
+Casual array size = 943
+Full process FINISHED in 12.5757521 seconds time
